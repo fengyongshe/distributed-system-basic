@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.hasor.net/sechma/main">
+    <!-- 默认要装载的模块 -->
+    <hasor.modules>
+        <module>net.hasor.core.exts.startup.StartupModule</module>
+        <module>net.hasor.core.exts.aop.AopModule</module>
+        <module>com.fys.hasor.module.FirstModule</module>
+    </hasor.modules>
+    <hasor.apiBinderSet>
+        <!-- 注册扩展 -->
+        <binder type="com.fys.hasor.apibinder.TestBinder">com.fys.hasor.apibinder.TestBinderCreator</binder>
+    </hasor.apiBinderSet>
+</config>

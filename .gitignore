@@ -1,0 +1,46 @@
+!.mvn/wrapper/maven-wrapper.jar
+**/.keep
+.keep
+target
+HELP.md
+*.tar
+kafka-logs
+node_modules
+*.zip
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.orig
+.suo
+.sdf
+*.rej
+*.vcxproj.user
+.svn
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.DS_Store
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
