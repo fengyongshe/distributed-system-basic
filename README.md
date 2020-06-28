@@ -6,7 +6,7 @@
 
 [1) 微内核架构浅析与实践](https://github.com/fengyongshe/distributed-system-basic/blob/master/docs/微内核架构浅析与实践.md)  
 [2) 基于空间架构浅析与实践](https://github.com/fengyongshe/distributed-system-basic/blob/master/docs/基本空间架构浅析与实践.md)  
-[3）事件驱动架构浅析与实践](https://github.com/fengyongshe/distributed-system-basic/blob/master/docs/事件驱动架构浅析与实践.md)  
+[3) 事件驱动架构浅析与实践](https://github.com/fengyongshe/distributed-system-basic/blob/master/docs/事件驱动架构浅析与实践.md)  
 
 ## 参考链接
 
